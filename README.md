@@ -6,10 +6,22 @@ An end-to-end data analytics project focused on exploring Netflix's content cata
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Power BI Dashboard Gallery
 
-![Netflix Dashboard](Netflix_Dashboard_Overview.png)
+### 1. Executive Overview
+![Executive Overview](Netflix_Dashboard_Overview.png)
 
+### 2. Content Analysis
+![Content Analysis](Netflix_Dashboard_Content_Analysis.png)
+
+### 3. Country Analysis
+![Country Analysis](Netflix_Dashboard_Country_Analysis.png)
+
+### 4. Ratings Analysis
+![Ratings Analysis](Netflix_Dashboard_Ratings_Analysis.png)
+
+### 5. Trends & Insights
+![Trends & Insights](Netflix_Dashboard_Trends_Insights.png)
 ---
 
 ## 📌 Project Overview
