@@ -2,19 +2,25 @@
 
 ### End-to-End Data Analytics Project | Excel • MySQL • Python • Power BI
 
-An end-to-end data analytics project focused on exploring Netflix's content catalog, identifying trends, and presenting meaningful insights through SQL analysis, Python EDA, Excel data preparation, and interactive Power BI dashboards.
+An end-to-end data analytics project focused on exploring Netflix's content catalog, identifying trends, and generating meaningful business insights using SQL, Python, Excel, and Power BI.
+
+---
+
+## 📊 Dashboard Preview
+
+![Netflix Dashboard](Netflix_Dashboard_Overview.png)
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes Netflix movies and TV shows to understand content distribution, release trends, country-wise contributions, ratings, and genre patterns.
+This project analyzes Netflix Movies and TV Shows to understand content distribution, release trends, country-wise contributions, ratings, and genre patterns.
 
-The goal is to transform raw Netflix data into meaningful business insights using multiple data analytics tools.
+The objective is to transform raw Netflix data into meaningful business insights using multiple data analytics tools.
 
 ## 🎯 Project Objectives
 
-- Analyze Netflix Movies and TV Shows distribution.
+- Analyze Movies and TV Shows distribution.
 - Identify top content-producing countries.
 - Explore content release trends over the years.
 - Analyze ratings and genres.
@@ -30,20 +36,23 @@ The goal is to transform raw Netflix data into meaningful business insights usin
 | MySQL | SQL queries and database analysis |
 | Python | Exploratory Data Analysis (EDA) |
 | Pandas | Data manipulation |
-| Matplotlib & Seaborn | Data visualization |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical visualization |
 | Power BI | Interactive dashboards |
 
-## 📊 Dataset Overview
+## 📂 Dataset Overview
 
-- Total Records: **8,807**
-- Total Columns: **12**
-- Movies: **6,131**
-- TV Shows: **2,676**
-- Unique Countries: **123**
+| Metric | Value |
+|---|---:|
+| Total Records | 8,807 |
+| Total Columns | 12 |
+| Movies | 6,131 |
+| TV Shows | 2,676 |
+| Unique Countries | 123 |
 
 ## 📈 Power BI Dashboards
 
-The project contains five dashboard pages:
+The project includes five interactive dashboard pages:
 
 1. Executive Overview
 2. Content Analysis
@@ -53,7 +62,7 @@ The project contains five dashboard pages:
 
 ## 🗄️ SQL Analysis
 
-SQL analysis includes:
+SQL queries cover:
 
 - Total content analysis
 - Movies vs TV Shows comparison
@@ -68,52 +77,61 @@ SQL analysis includes:
 - Running totals
 - Year-over-year growth analysis
 
-## 🐍 Python EDA
+## 🐍 Python Exploratory Data Analysis
 
-Python was used for exploratory data analysis and visualization.
+Python was used to perform exploratory data analysis and create visualizations.
 
 Key analysis areas:
 
 - Netflix content distribution
 - Genre analysis
-- Rating analysis
+- Ratings analysis
 - Movie duration analysis
+- TV Show seasons analysis
 - Top 10 countries
+- Yearly content trends
 
-## 📂 Project Files
+## 📊 Key Business Insights
 
-The repository includes:
-
-- Power BI dashboard (.pbix)
-- Power BI PDF report
-- Advanced SQL analysis queries
-- Python EDA scripts and visualizations
-- Cleaned and final CSV datasets
-- MySQL import script
-- Project overview documentation
-
-## 💡 Key Findings
-
-- Movies account for approximately **69.62%** of the catalog.
-- TV Shows account for approximately **30.38%**.
+- Movies represent approximately **69.62%** of the total content.
+- TV Shows represent approximately **30.38%** of the total content.
+- The dataset contains **123 unique countries**.
 - The United States and India are among the leading content-producing countries.
-- The dataset contains 123 unique countries.
+
+## 📁 Project Files
+
+| File | Description |
+|---|---|
+| Netflix_360_Analytics.pbix | Power BI Dashboard |
+| Netflix_360_Analytics.pdf | Power BI PDF Report |
+| Netflix_Dashboard_Overview.png | Dashboard Preview |
+| Netflix_Advanced_SQL_Analysis.sql | Advanced SQL Queries |
+| Netflix_Cleaned.csv | Cleaned Dataset |
+| Netflix_Final.csv | Final Dataset |
+| Netflix_MySQL_Import.csv | MySQL Import Dataset |
+| import_to_mysql.py | MySQL Import Script |
+| Project_Overview.docx | Project Documentation |
+| Python EDA files | Analysis Scripts and Visualizations |
 
 ## 🚀 Project Outcome
 
-This project demonstrates practical data analytics skills, including data cleaning, SQL querying, exploratory data analysis, data visualization, and dashboard development.
+This project demonstrates practical data analytics skills, including:
 
-It provides hands-on experience in converting raw data into actionable insights.
-
----
+- Data cleaning and preprocessing
+- Database management using MySQL
+- Advanced SQL analysis
+- Exploratory Data Analysis using Python
+- Data visualization
+- Interactive dashboard development using Power BI
+- Business insights generation
 
 ## 👨‍💻 Author
 
 **Sachin Kumar Chaudhary**
 
 - GitHub: [sachinNot](https://github.com/sachinNot)
-- Field: Data Analytics
 - Skills: Excel | SQL | Python | Power BI
+- Field: Data Analytics
 
 ---
 
